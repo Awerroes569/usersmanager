@@ -411,6 +411,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"consola@npm:^3.2.3":
+  version: 3.2.3
+  resolution: "consola@npm:3.2.3"
+  checksum: 10c0/c606220524ec88a05bb1baf557e9e0e04a0c08a9c35d7a08652d99de195c4ddcb6572040a7df57a18ff38bbc13ce9880ad032d56630cef27bef72768ef0ac078
+  languageName: node
+  linkType: hard
+
 "create-require@npm:^1.1.0":
   version: 1.1.1
   resolution: "create-require@npm:1.1.1"
@@ -1586,6 +1593,7 @@ __metadata:
   resolution: "usersmanager@workspace:."
   dependencies:
     "@types/node": "npm:^22.0.3"
+    consola: "npm:^3.2.3"
     inquirer: "npm:^8.2.4"
     nodemon: "npm:^2.0.20"
     ts-node: "npm:^10.9.2"
